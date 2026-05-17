@@ -5,7 +5,11 @@ An updated version of the original [debugprobe](https://www.raspberrypi.com/docu
 - USB-C (i just really hate micro-b)
 - a configurable addressable RGB led
 
+# Why did i make this?
 
+1. Why not?
+2. I had no way of debugging except plain UART (which is annoying), so i wanted something that would let me use GDB
+3. Wanted to make something using the RP2354A
 
 # Setting Up
 1. Ground the BOOT solder pad
@@ -19,7 +23,8 @@ along the same lines as the official documentation
 - [BOM](PCB/production_files/BOM.csv)
 - [Design Files](PCB/Design%20Files/)
 - [Schematic PDF](PCB/Design%20Files/schem.pdf/Pico2Probe.pdf)
-- [Zine]()
+- [Zine](zine.pdf)
+
 # Images
 ![PCB](images/tst.png)
 
