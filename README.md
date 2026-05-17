@@ -13,7 +13,7 @@ An updated version of the original [debugprobe](https://www.raspberrypi.com/docu
 
 # Setting Up
 1. Ground the BOOT solder pad
-2. Build the firmware with -DPICO_BOARD=pico2
+2. Build the firmware with ```-DPICO_BOARD=pico2```
 3. Drag the resultant .uf2 file into the storage device that appears
 
 # Usage
@@ -30,4 +30,4 @@ along the same lines as the official documentation
 ![PCB 3d view](images/tst.png)
 ![schematic](images/image.png)
 ![Routed PCB](images/image-1.png)
-![Zine](images/Your%20paragraph%20text.pngzine.png)
+![Zine](images/zine.png)
