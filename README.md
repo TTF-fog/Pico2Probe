@@ -7,8 +7,8 @@ An updated version of the original [debugprobe](https://www.raspberrypi.com/docu
 
 # Why did i make this?
 
-1. Why not?
-2. I had no way of debugging except plain UART (which is annoying), so i wanted something that would let me use GDB
+1. Does one need to justify the act of creation? (or, in other words, why not?) (please do not take that out of context)
+2. I had no way of debugging except plain UART (which is annoying), so i wanted something that would let me use an actual debugger
 3. Wanted to make something using the RP2354A
 
 # Setting Up
@@ -24,8 +24,10 @@ along the same lines as the official documentation
 - [Design Files](PCB/Design%20Files/)
 - [Schematic PDF](PCB/Design%20Files/schem.pdf/Pico2Probe.pdf)
 - [Zine](zine.pdf)
+- [Gerbers](PCB/production_files/GERBER-Pico2Probe.zip)
 
 # Images
-![PCB](images/tst.png)
-
+![PCB 3d view](images/tst.png)
 ![schematic](images/image.png)
+![Routed PCB](images/image-1.png)
+![Zine](images/Your%20paragraph%20text.pngzine.png)
