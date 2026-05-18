@@ -1,0 +1,29 @@
+Comment,Designator,Footprint,LCSC,Quantity,LCSC_Link,Original Cost,LCSC Unit Price (USD),BOM Qty Cost (USD),MOQ,MOQ Order Qty,MOQ Order Cost (USD),Stock/Pricing Status,Source URL
+100,"R10,R15,R16,R17,R18,R9",R_0402_1005Metric,C25076,6,https://lcsc.com/product/C25076.html,$0.03,0.001,0.006,100,100,0.1,In stock,https://www.lcsc.com/product-detail/C25076.html
+100nF,"C11,C12,C13,C14,C15,C16,C17,C19,C5",C_0402_1005Metric,C1525,9,https://lcsc.com/product/C1525.html,$0.08,0.0015,0.0135,100,100,0.15,In stock,https://www.lcsc.com/product-detail/C1525.html
+100nFF,C7,C_0402_1005Metric,C1525,1,https://lcsc.com/product/C1525.html,$0.13,0.0015,0.0015,100,100,0.15,In stock,https://www.lcsc.com/product-detail/C1525.html
+10uF,"C1,C2",C_0402_1005Metric,C15525,2,https://lcsc.com/product/C15525.html,$0.07,0.007,0.014,100,100,0.7,In stock,https://www.lcsc.com/product-detail/C15525.html
+15pF,"C3,C4",C_0402_1005Metric,C1548,2,https://lcsc.com/product/C1548.html,,0.0012,0.0024,100,100,0.12,In stock,https://www.lcsc.com/product-detail/C1548.html
+1K,"R11,R12,R13,R14,R19,R3,R7,R8",R_0402_1005Metric,C11702,8,https://lcsc.com/product/C11702.html,,0.0011,0.0088,100,100,0.11,Out of stock,https://www.lcsc.com/product-detail/C11702.html
+1uF,C20,C_0402_1005Metric,C52923,1,https://lcsc.com/product/C52923.html,,0.004,0.004,100,100,0.4,In stock,https://www.lcsc.com/product-detail/C52923.html
+27,"R4,R5",R_0402_1005Metric,C138021,2,https://lcsc.com/product/C138021.html,,0.0008,0.0016,100,100,0.08,In stock,https://www.lcsc.com/product-detail/C138021.html
+3.3u,L1,L_0402_1005Metric,C48946153,1,https://lcsc.com/product/C48946153.html,,0.0425,0.0425,10,10,0.425,In stock,https://www.lcsc.com/product-image/C48946153.html
+33,R6,R_0402_1005Metric,C25105,1,https://lcsc.com/product/C25105.html,,0.0009,0.0009,100,100,0.09,In stock,https://www.lcsc.com/product-detail/C25105.html
+4.7uF,"C10,C6,C8,C9",C_0402_1005Metric,C23733,4,https://lcsc.com/product/C23733.html,,0.0063,0.0252,50,50,0.315,In stock,https://www.lcsc.com/product-detail/C23733.html
+5.1K,"R1,R2",R_0402_1005Metric,C25905,2,https://lcsc.com/product/C25905.html,,0.0009,0.0018,100,100,0.09,In stock,https://www.lcsc.com/product-detail/C25905.html
+BTR04A5-TP,D7,D0402-BI,C42406343,1,https://lcsc.com/product/C42406343.html,,0.0252,0.0252,20,20,0.504,In stock,https://www.lcsc.com/product-detail/C42406343.html
+Conn_01x03_Socket,"J2,J3",JST_ACH_BM03B-ACHSS-GAN-ETF_1x03-1MP_P1.20mm_Vertical,C53368148,2,https://lcsc.com/product/C53368148.html,,,,1,1,0.38,In stock,https://www.lcsc.com/product-detail/C53368148.html
+Crystal_GND24,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C20625731,1,https://lcsc.com/product/C20625731.html,,0.2947,0.2947,5,5,1.4735,In stock,https://www.lcsc.com/product-detail/C20625731.html
+ESD321DPYR_C2868952,"D10,D11",X1SON-2_L1.0-W0.6-P0.65-RD-1,C2868952,2,https://lcsc.com/product/C2868952.html,1.81,0.2751,0.5502,5,5,1.3755,In stock,https://www.lcsc.com/product-detail/C2868952.html
+RP2354A,U1,QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm,C41378174,1,https://lcsc.com/product/C41378174.html,3,1.4926,1.4926,1,1,1.4926,Out of stock,https://www.lcsc.com/product-detail/C41378174.html
+RX1,D6,LED_0402_1005Metric,C598352,1,https://lcsc.com/product/C598352.html,0.447,0.3451,0.3451,1,1,0.3451,In stock,https://www.lcsc.com/product-detail/C598352.html
+RX_LED,D3,LED_0402_1005Metric,C598352,1,https://lcsc.com/product/C598352.html,0.447,0.3451,0.3451,1,1,0.3451,In stock,https://www.lcsc.com/product-detail/C598352.html
+TX1,D5,LED_0402_1005Metric,C598352,1,https://lcsc.com/product/C598352.html,0.447,0.3451,0.3451,1,1,0.3451,In stock,https://www.lcsc.com/product-detail/C598352.html
+TX_LED,D4,LED_0402_1005Metric,C598352,1,https://lcsc.com/product/C598352.html,0.447,0.3451,0.3451,1,1,0.3451,In stock,https://www.lcsc.com/product-detail/C598352.html
+USB_C_Receptacle_USB2.0_14P,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948,1,https://lcsc.com/product/C165948.html,,0.1709,0.1709,5,5,0.8545,In stock,https://www.lcsc.com/product-detail/C165948.html
+MCP1700x-330xxMB,U6,SOT-89-3,C511277,1,https://lcsc.com/product/C511277,0.8,0.803,0.803,1,1,0.803,In stock,https://www.lcsc.com/product-detail/C511277.html
+POWER,D1,LED_0402_1005Metric,C598352,1,https://lcsc.com/product/C598352.html,,0.3451,0.3451,1,1,0.3451,In stock,https://www.lcsc.com/product-detail/C598352.html
+74AUP1T17GWH,U4,TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR,C545951,1,https://lcsc.com/product/C545951.html,$2.72,0.2797,0.2797,5,5,1.3985,In stock,https://www.lcsc.com/product-detail/C545951.html
+SK6812MINI,D2,LED_SK6812_EC15_1.5x1.5mm,C2890035,1,https://lcsc.com/product/C2890035.html,,0.093,0.093,5,5,0.465,In stock,https://www.lcsc.com/product-detail/C2890035.html
+74AUP1T17GWH,U5,TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR,C545951,1,https://lcsc.com/product/C545951.html,$2.72,0.2797,0.2797,5,5,1.3985,In stock,https://www.lcsc.com/product-detail/C545951.html
+,,,,,,,Totals,5.8367,,,14.6006,,
