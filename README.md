@@ -14,8 +14,9 @@ An updated version of the original [debugprobe](https://www.raspberrypi.com/docu
 # Setting Up
 1. the board will already have a bootloader on it, plug it in and mount the drive
 2. do git submodule sync and git submodule update --init --recursive
-3. cmake -B build-pico2probe -DPICO_BOARD=pico2probe && make -C build-pico2probe -j$(nproc)
-4. drag the pico2probe.uf2 file into the flash drive
+3. cd into debugprobe directory and
+4. cmake -B build-pico2probe -DPICO_BOARD=pico2probe && make -C build-pico2probe -j$(nproc)
+5. drag the pico2probe.uf2 file into the flash drive
 
 # Firmware Modifications
 - opening and closing the port at 1200 baud automatically puts the device into BOOTSEL mode
