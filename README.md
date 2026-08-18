@@ -12,13 +12,23 @@ An updated version of the original [debugprobe](https://www.raspberrypi.com/docu
 3. Wanted to make something using the RP2354A
 
 # Setting Up
-1. Ground the BOOT solder pad
-2. Build the firmware with ```-DPICO_BOARD=pico2```
-3. Drag the resultant .uf2 file into the storage device that appears
+1. the board will already have a bootloader on it, plug it in and mount the drive
+2. do git submodule sync and git submodule update --init --recursive
+3. cmake -B build-pico2probe -DPICO_BOARD=pico2probe && make -C build-pico2probe -j$(nproc)
+4. drag the pico2probe.uf2 file into the flash drive
 
+# Firmware Modifications
+- opening and closing the port at 1200 baud automatically puts the device into BOOTSEL mode
+- board support files for the pico2probe
 # Usage
-along the same lines as the official documentation
-
+for UART RX/TX, 
+```shell
+screen /dev/ttyACMx
+```
+for using SWD, eg. flashing a rp2040 do:
+```shell
+sudo openocd -f interface/cmsis-dap.cfg -f target/rp2040.cfg -c "adapter speed 5000" -c "program blink.elf verify reset exit"
+```
 # (Sub)Links
 - [BOM](PCB/production_files/BOM.csv)
 - [Design Files](PCB/Design%20Files/)
@@ -31,3 +41,10 @@ along the same lines as the official documentation
 ![schematic](images/image.png)
 ![Routed PCB](images/image-1.png)
 ![Zine](images/zine.png)
+
+# Current Issues
+- Silkscreen text is difficult to read due to small size
+- buffer on UART is on wrong pin
+- uses green and red leds, not yellow and red leds
+- solder jumpers are difficult to use reliably
+- bootsel does not work due to resistor configuuration issues
