@@ -5,6 +5,11 @@ An updated version of the original [debugprobe](https://www.raspberrypi.com/docu
 - USB-C (i just really hate micro-b)
 - a configurable addressable RGB led
 
+### Build
+![](build.jpg)
+
+SWD, uart works
+
 # Why did i make this?
 
 1. Does one need to justify the act of creation? (or, in other words, why not?) (please do not take that out of context)
